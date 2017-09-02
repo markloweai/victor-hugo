@@ -3,3 +3,5 @@ backend:
   repo: markloweai/victor-hugo
   branch: master
   
+media_folder: media_folder
+
